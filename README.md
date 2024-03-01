@@ -1,1 +1,1 @@
-# bootstrap-componet
+# bootstrap-components
